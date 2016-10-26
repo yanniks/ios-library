@@ -26,7 +26,7 @@
 //
 
 
-#import "AFHTTPSessionManager.h"
+#import <AFNetworking/AFHTTPSessionManager.h>
 #import "OCHTTPRequestOperation.h"
 
 @class OCCommunication;

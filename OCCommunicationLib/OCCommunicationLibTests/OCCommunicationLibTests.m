@@ -31,7 +31,7 @@
 #import "OCFileDto.h"
 #import "OCSharedDto.h"
 #import "ConfigTests.h"
-#import "AFURLSessionManager.h"
+#import <AFNetworking/AFURLSessionManager.h>
 #import "OCConstants.h"
 
 #import <UIKit/UIKit.h>
