@@ -8,6 +8,7 @@ s.authors = { 'Javier Gonzalez' => 'javiergonzper@gmail.com' }
 s.source = { :git => 'https://github.com/yanniks/ios-library.git' }
 
 s.ios.deployment_target = '8.0'
+s.osx.deployment_target = '10.10'
 
 s.source_files = 'OCCommunicationLib/OCCommunicationLib/*.{h,m}',
 				 'OCCommunicationLib/OCCommunicationLib/OCWebDavClient/*.{h,m}',
