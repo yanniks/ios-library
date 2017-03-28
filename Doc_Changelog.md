@@ -1,4 +1,16 @@
-## What's new in 2.0.0 version
+## What's new in 2.0.3 version
+- Added specific error code for maintenance mode
+- Added specific error code for quota excess
+- Improved recognition of SAML expiration
+- Improved handling of cookies in HEAD requests
+
+## 2.0.2 version
+- Updated travis validation
+
+## 2.0.1 version
+- Updated Copyright, Xcode8 and iOS10 support
+
+## 2.0.0 version
 
 - Updated AFNetworking library v3.1.0
 - All the network request made using NSOperation was modified to use NSURLSession

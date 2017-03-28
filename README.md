@@ -1,4 +1,4 @@
-# ownCloud iOS Library v 2.0.0
+# ownCloud iOS Library v 2.0.3
 
 ### Introduction
 Using ownCloud iOS library it will be the easiest way to communicate with ownCloud servers.
@@ -6,7 +6,7 @@ Add this library in your project and integrate your application with ownCloud se
 
 ### Install Library
 #### 2.1. Information how to get the library
-Get this code and compile with Xcode 6. In the repository it is not only the library project “ownCloud iOS library” but also the example project “OCLibraryExample”. Thanks to the “OCLibraryExample” you will learn how to use the library.
+Get this code and compile with Xcode 8. In the repository it is not only the library project “ownCloud iOS library” but also the example project “OCLibraryExample”. Thanks to the “OCLibraryExample” you will learn how to use the library.
 #### 2.2. Add library to your project
 There are two ways of adding this library to your code:
 
@@ -116,6 +116,6 @@ ownCloud iOS library uses some classes based in  https://github.com/zwaldowski/D
 
 ### Compatibility
 
-ownCloud iOS library supports iOS 8 and iOS 9 and works in Xcode 7.
+ownCloud iOS library supports iOS 8, iOS 9 and iOS10 and works in Xcode 8.
 
 ownCloud iOS library supports ownCloud server from version 4.5.
